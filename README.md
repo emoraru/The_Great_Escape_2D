@@ -11,7 +11,8 @@ Your mission? Sneak out, do as many fun activities as possible… **without gett
 - 🚓 Avoid the police – they’re everywhere!  
 - 😂 Fun, lighthearted take on a serious time  
 
-`![Gameplay Screenshot](https://github.com/emoraru/The_Great_Escape_2D/blob/main/MareaIeseala_game.png)`  
+![Running from the police](MareaIeseala_game.png)
+
 
 ---
 
@@ -36,7 +37,8 @@ A little laughter + gaming = good medicine ❤️
 3. Try not to get caught 👀  
 
 
-`![Running from the police](https://github.com/emoraru/The_Great_Escape_2D/blob/main/MareaIeseala_ingame.png)`  
+![Running from the police](MareaIeseala_ingame.png)
+
 
 ---
 
